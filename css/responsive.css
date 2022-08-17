@@ -1,0 +1,1714 @@
+@media (min-width: 1400px) {
+    /* ===navbar part start === */
+    #main_menu .toggler_icon i {
+        font-size: 22px;
+        color: black;
+    }
+
+    #main_menu .navbar-toggler {
+        border: 0 !important;
+    }
+
+    #main_menu .navbar-toggler:focus {
+        box-shadow: none !important;
+    }
+
+    #main_menu ul li a {
+        margin: 14px 0;
+    }
+
+    /* ===navbar part end === */
+
+    /* ===banner part start === */
+
+    .banner_heading {
+        font-size: 60px;
+    }
+
+    #banner {
+        padding: 250px 0 100px 0;
+    }
+
+    #banner .button a {
+        font-size: 16px;
+        padding: 11px 16px;
+    }
+
+    #banner .button{
+        justify-content: start;
+    }
+    .button {
+        gap: 21px;
+        justify-content: end;
+    }
+
+    #banner .right {
+        height: 360px;
+    }
+
+    .right .circle_1 {
+        height: 100px;
+        width: 100px;
+    }
+
+    /* ===banner part end === */
+
+    /* ===features part start === */
+    #features {
+        padding-bottom: 130px;
+    }
+
+    #features .shape {
+        padding: 18px;
+        right: -15px;
+    }
+
+    #features .shape .content {
+        padding: 15px;
+    }
+
+    #features .shape h2 {
+        font-size: 70px;
+        margin-bottom: 5px;
+    }
+
+    #features .sub_heading {
+        font-size: 18px;
+        margin-bottom: 5px !important;
+    }
+
+    #features .heading {
+        font-size: 48px;
+        margin-top: 70px;
+        text-align: start;
+    }
+
+    /* ===features part end === */
+
+    /* ===shoping part start === */
+    .index_Fmenu {
+        padding-top: 30px !important;
+    }
+
+    #shopping {
+        padding-bottom: 40px;
+    }
+
+    .heading {
+        font-size: 48px;
+    }
+
+    /* ===shoping part end === */
+
+    /* ===food menu part start === */
+    .shop_Fmenu {
+        padding-top: 20px !important;
+    }
+
+    .food_menu {
+        padding-bottom: 0 !important;
+    }
+
+    .food_menu {
+        padding-top: 0 !important;
+    }
+
+    #food_menu {
+        padding: 100px 0;
+    }
+
+    .arrow {
+        height: 42px;
+        width: 42px;
+    }
+
+    .prevarrow {
+        top: -70px;
+        right: 5%;
+    }
+
+    #food_menu .food_menu .main {
+        margin-bottom: 50px;
+    }
+
+    /* ===food menu part end === */
+
+    /* ===team part start === */
+    #team {
+        padding-bottom: 90px;
+    }
+
+    #team .button {
+        margin-bottom: 52px;
+    }
+
+    #team .bottom .item {
+        margin: 15px 0;
+    }
+
+    /* ===team part end === */
+
+    /* ===download part start === */
+    #download .left {
+        padding: 40px 0 40px 10px;
+    }
+
+    #download .right {
+        height: 375px;
+    }
+
+    #download .right .img {
+        width: 480px;
+    }
+
+    #download .left .download_btn a img {
+        width: 28px;
+        height: 48px;
+    }
+
+    #download .left .download_btn a h6 {
+        font-size: 15px;
+    }
+
+    /* ===download part end === */
+
+    /* ===footer part start === */
+    .footer_button{
+        justify-content: start;
+    }
+    #footer .img {
+        text-align: center;
+    }
+
+    #footer .social_icon {
+        text-align: center;
+    }
+
+    #footer p {
+        text-align: center;
+        margin-top: 13px;
+    }
+
+    /* ===footer part end === */
+
+    /* about itile start  */
+    #about_title {
+        padding: 129px 0 59px 0;
+    }
+
+    #about_title .heading {
+        font-size: 55px;
+        text-align: center;
+    }
+
+    .about_heading {
+        margin-bottom: 30px;
+    }
+
+    .about_pera {
+        text-align: start;
+    }
+
+    #features .right .img img {
+        width: 163px;
+        height: 32px;
+    }
+
+    #features .right .img {
+        text-align: center;
+    }
+
+    #features .bottom {
+        margin-top: 130px;
+    }
+
+    /* about itile end */
+
+    /* ===promo video part start === */
+    #promo_video {
+        padding: 15px 0 60px 0;
+    }
+
+    #promo_video .right .img img {
+        margin-top: 50px;
+    }
+
+    .promo_button{
+        justify-content: start;
+    }
+
+    /* ===promo video part end === */
+
+    /* ===rivew part start===  */
+    #rivew {
+        padding-bottom: 50px;
+    }
+
+    /* ===rivew part end===  */
+
+    /* ===delivery part start===  */
+    #delivery {
+        padding: 64px 0;
+    }
+
+    #delivery .right img {
+        margin-top: 50px;
+    }
+
+    .delivery_button{
+        justify-content: start;
+    }
+    /* ===delivery part end===  */
+
+    /* ===discount part start === */
+
+
+    #discount {
+        padding-bottom: 40px;
+    }
+
+    #discount .button {
+        margin-bottom: 30px;
+    }
+
+    .discount_button{
+        justify-content: start;
+    }
+
+    /* ===discount part end === */
+
+    /* ===contact part start === */
+    #contact_details .left {
+        padding: 116px 10px 70px 20px;
+    }
+
+    #contact_details .right .envelope1 {
+        width: 230px;
+        bottom: -5%;
+        left: -36%;
+    }
+
+    #contact_details .right .envelope2 {
+        width: 100px;
+        right: 21px;
+    }
+
+    /* ===contact part end === */
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    /* ===navbar part start === */
+    #main_menu .toggler_icon i {
+        font-size: 22px;
+        color: black;
+    }
+
+    #main_menu .navbar-toggler {
+        border: 0 !important;
+    }
+
+    #main_menu .navbar-toggler:focus {
+        box-shadow: none !important;
+    }
+
+    #main_menu ul li a {
+        margin: 14px 0;
+    }
+
+    /* ===navbar part end === */
+
+    /* ===banner part start === */
+
+    .banner_heading {
+        font-size: 60px;
+    }
+
+    #banner {
+        padding: 250px 0 100px 0;
+    }
+
+    #banner .button a {
+        font-size: 16px;
+        padding: 11px 16px;
+    }
+
+    #banner .button{
+        justify-content: start;
+    }
+    .button {
+        gap: 21px;
+        justify-content: end;
+    }
+
+    #banner .right {
+        height: 360px;
+    }
+
+    .right .circle_1 {
+        height: 100px;
+        width: 100px;
+    }
+
+    /* ===banner part end === */
+
+    /* ===features part start === */
+    #features {
+        padding-bottom: 130px;
+    }
+
+    #features .shape {
+        padding: 18px;
+        right: -15px;
+    }
+
+    #features .shape .content {
+        padding: 15px;
+    }
+
+    #features .shape h2 {
+        font-size: 70px;
+        margin-bottom: 5px;
+    }
+
+    #features .sub_heading {
+        font-size: 18px;
+        margin-bottom: 5px !important;
+    }
+
+    #features .heading {
+        font-size: 48px;
+        margin-top: 70px;
+        text-align: start;
+    }
+
+    /* ===features part end === */
+
+    /* ===shoping part start === */
+    .index_Fmenu {
+        padding-top: 30px !important;
+    }
+
+    #shopping {
+        padding-bottom: 40px;
+    }
+
+    .heading {
+        font-size: 48px;
+    }
+
+    /* ===shoping part end === */
+
+    /* ===food menu part start === */
+    .shop_Fmenu {
+        padding-top: 20px !important;
+    }
+
+    .food_menu {
+        padding-bottom: 0 !important;
+    }
+
+    .food_menu {
+        padding-top: 0 !important;
+    }
+
+    #food_menu {
+        padding: 100px 0;
+    }
+
+    .arrow {
+        height: 42px;
+        width: 42px;
+    }
+
+    .prevarrow {
+        top: -70px;
+        right: 5%;
+    }
+
+    #food_menu .food_menu .main {
+        margin-bottom: 50px;
+    }
+
+    /* ===food menu part end === */
+
+    /* ===team part start === */
+    #team {
+        padding-bottom: 90px;
+    }
+
+    #team .button {
+        margin-bottom: 52px;
+    }
+
+    #team .bottom .item {
+        margin: 15px 0;
+    }
+
+    /* ===team part end === */
+
+    /* ===download part start === */
+    #download .left {
+        padding: 40px 0 40px 10px;
+    }
+
+    #download .right {
+        height: 375px;
+    }
+
+    #download .right .img {
+        width: 480px;
+    }
+
+    #download .left .download_btn a img {
+        width: 28px;
+        height: 48px;
+    }
+
+    #download .left .download_btn a h6 {
+        font-size: 15px;
+    }
+
+    /* ===download part end === */
+
+    /* ===footer part start === */
+    .footer_button{
+        justify-content: start;
+    }
+    #footer .img {
+        text-align: center;
+    }
+
+    #footer .social_icon {
+        text-align: center;
+    }
+
+    #footer p {
+        text-align: center;
+        margin-top: 13px;
+    }
+
+    /* ===footer part end === */
+
+    /* about itile start  */
+    #about_title {
+        padding: 129px 0 59px 0;
+    }
+
+    #about_title .heading {
+        font-size: 55px;
+        text-align: center;
+    }
+
+    .about_heading {
+        margin-bottom: 30px;
+    }
+
+    .about_pera {
+        text-align: start;
+    }
+
+    #features .right .img img {
+        width: 163px;
+        height: 32px;
+    }
+
+    #features .right .img {
+        text-align: center;
+    }
+
+    #features .bottom {
+        margin-top: 130px;
+    }
+
+    /* about itile end */
+
+    /* ===promo video part start === */
+    #promo_video {
+        padding: 15px 0 60px 0;
+    }
+
+    #promo_video .right .img img {
+        margin-top: 50px;
+    }
+
+    .promo_button{
+        justify-content: start;
+    }
+
+    /* ===promo video part end === */
+
+    /* ===rivew part start===  */
+    #rivew {
+        padding-bottom: 50px;
+    }
+
+    /* ===rivew part end===  */
+
+    /* ===delivery part start===  */
+    #delivery {
+        padding: 64px 0;
+    }
+
+    #delivery .right img {
+        margin-top: 50px;
+    }
+
+    .delivery_button{
+        justify-content: start;
+    }
+    /* ===delivery part end===  */
+
+    /* ===discount part start === */
+
+
+    #discount {
+        padding-bottom: 40px;
+    }
+
+    #discount .button {
+        margin-bottom: 30px;
+    }
+
+    .discount_button{
+        justify-content: start;
+    }
+
+    /* ===discount part end === */
+
+    /* ===contact part start === */
+    #contact_details .left {
+        padding: 116px 10px 70px 20px;
+    }
+
+    #contact_details .right .envelope1 {
+        width: 230px;
+        bottom: -5%;
+        left: -36%;
+    }
+
+    #contact_details .right .envelope2 {
+        width: 100px;
+        right: 21px;
+    }
+
+    /* ===contact part end === */
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* ===navbar part start === */
+    .footer_button{
+        justify-content: start !important;
+    }
+    #main_menu .toggler_icon i {
+        font-size: 22px;
+        color: black;
+    }
+
+    #main_menu .navbar-toggler {
+        border: 0 !important;
+    }
+
+    #main_menu .navbar-toggler:focus {
+        box-shadow: none !important;
+    }
+
+    #main_menu ul li a {
+        margin: 14px 0;
+    }
+
+    /* ===navbar part end === */
+
+    /* ===banner part start === */
+
+    .banner_heading {
+        font-size: 53px;
+    }
+
+    #banner {
+        padding: 250px 0 100px 0;
+    }
+
+    .button a {
+        font-size: 15px;
+        padding: 11px 15px;
+    }
+
+    .button {
+        gap: 21px;
+        justify-content: end;
+    }
+
+    #banner .right {
+        height: 360px;
+    }
+
+    .right .circle_1 {
+        height: 100px;
+        width: 100px;
+    }
+
+    /* ===banner part end === */
+
+    /* ===features part start === */
+    #features {
+        padding-bottom: 100px;
+    }
+
+    #features .shape {
+        padding: 16px;
+        right: 0px;
+    }
+
+    #features .shape .content {
+        padding: 12px;
+    }
+
+    #features .shape h2 {
+        font-size: 65px;
+        margin-bottom: 5px;
+    }
+
+    #features .sub_heading {
+        font-size: 18px;
+        margin-bottom: 5px !important;
+    }
+
+    #features .heading {
+        font-size: 45px;
+        margin-top: 70px;
+        text-align: center;
+    }
+
+    /* ===features part end === */
+
+    /* ===shoping part start === */
+    .index_Fmenu {
+        padding-top: 30px !important;
+    }
+
+    #shopping {
+        padding-bottom: 40px;
+    }
+
+    .heading {
+        font-size: 45px;
+    }
+
+    /* ===shoping part end === */
+
+    /* ===food menu part start === */
+    .shop_Fmenu {
+        padding-top: 20px !important;
+    }
+
+    .food_menu {
+        padding-bottom: 0 !important;
+    }
+
+    .food_menu {
+        padding-top: 0 !important;
+    }
+
+    #food_menu {
+        padding: 100px 0;
+    }
+
+    .arrow {
+        height: 35px;
+        width: 35px;
+    }
+
+    .prevarrow {
+        top: -70px;
+        right: 10%;
+    }
+
+    #food_menu .food_menu .main {
+        margin-bottom: 50px;
+    }
+
+    /* ===food menu part end === */
+
+    /* ===team part start === */
+    #team {
+        padding-bottom: 90px;
+    }
+
+    #team .button {
+        margin-bottom: 52px;
+    }
+
+    #team .bottom .item {
+        margin: 15px 0;
+    }
+
+    /* ===team part end === */
+
+    /* ===download part start === */
+    #download .left {
+        padding: 40px 0 40px 10px;
+    }
+
+    #download .right {
+        height: 375px;
+    }
+
+    #download .right .img {
+        width: 480px;
+    }
+
+    #download .left .download_btn a img {
+        width: 28px;
+        height: 48px;
+    }
+
+    #download .left .download_btn a h6 {
+        font-size: 15px;
+    }
+
+    /* ===download part end === */
+
+    /* ===footer part start === */
+
+    #footer .img {
+        text-align: center;
+    }
+
+    #footer .social_icon {
+        text-align: center;
+    }
+
+    #footer p {
+        text-align: center;
+        margin-top: 13px;
+    }
+
+    /* ===footer part end === */
+
+    /* about itile start  */
+    #about_title {
+        padding: 129px 0 59px 0;
+    }
+
+    #about_title .heading {
+        font-size: 45px;
+        text-align: center;
+    }
+
+    .about_heading {
+        margin-bottom: 30px;
+    }
+
+    .about_pera {
+        text-align: center;
+    }
+
+    #features .right .img img {
+        width: 163px;
+        height: 32px;
+    }
+
+    #features .right .img {
+        text-align: center;
+    }
+
+    #features .bottom {
+        margin-top: 110px;
+    }
+
+    /* about itile end */
+
+    /* ===promo video part start === */
+    #promo_video {
+        padding: 15px 0 60px 0;
+    }
+
+    #promo_video .right .img img {
+        margin-top: 50px;
+    }
+
+    /* ===promo video part end === */
+
+    /* ===rivew part start===  */
+    #rivew {
+        padding-bottom: 50px;
+    }
+
+    /* ===rivew part end===  */
+
+    /* ===delivery part start===  */
+    #delivery {
+        padding: 64px 0;
+    }
+
+    #delivery .right img {
+        margin-top: 50px;
+    }
+
+    /* ===delivery part end===  */
+
+    /* ===discount part start === */
+
+
+    #discount {
+        padding-bottom: 40px;
+        padding-top: 40px;
+    }
+
+    #discount .button {
+        margin-bottom: 30px;
+    }
+
+    /* ===discount part end === */
+
+    /* ===contact part start === */
+    #contact_details .left {
+        padding: 116px 10px 70px 20px;
+    }
+
+    #contact_details .right .envelope1 {
+        width: 194px;
+        bottom: -5%;
+        left: -2%;
+    }
+
+    #contact_details .right .envelope2 {
+        width: 91px;
+        right: 21px;
+    }
+
+    /* ===contact part end === */
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* ===navbar part start === */
+    #main_menu .toggler_icon i {
+        font-size: 22px;
+        color: black;
+    }
+
+    #main_menu .navbar-toggler {
+        border: 0 !important;
+    }
+
+    #main_menu .navbar-toggler:focus {
+        box-shadow: none !important;
+    }
+
+    #main_menu ul li a {
+        margin: 14px 0;
+    }
+
+    /* ===navbar part end === */
+
+    /* ===banner part start === */
+    .banner_heading {
+        font-size: 45px;
+    }
+
+    #banner {
+        padding: 215px 0 90px 0;
+    }
+
+    .button a {
+        font-size: 15px;
+        padding: 11px 15px;
+    }
+
+    .button {
+        gap: 21px;
+        justify-content: start;
+    }
+
+    #banner .right {
+        height: 360px;
+    }
+
+    .right .circle_1 {
+        height: 80px;
+        width: 80px;
+    }
+
+    /* ===banner part end === */
+
+    /* ===features part start === */
+    #features {
+        padding-bottom: 81px;
+    }
+
+    #features .shape {
+        padding: 14px;
+        right: 0px;
+    }
+
+    #features .shape .content {
+        padding: 10px;
+    }
+
+    #features .shape h2 {
+        font-size: 55px;
+        margin-bottom: 5px;
+    }
+
+    #features .sub_heading {
+        font-size: 18px;
+        margin-bottom: 5px !important;
+    }
+
+    #features .heading {
+        font-size: 38px;
+        margin-top: 70px;
+        text-align: center;
+    }
+
+    /* ===features part end === */
+
+    /* ===shoping part start === */
+    .index_Fmenu {
+        padding-top: 30px !important;
+    }
+
+    #shopping {
+        padding-bottom: 40px;
+    }
+
+    .heading {
+        font-size: 40px;
+    }
+
+    /* ===shoping part end === */
+
+    /* ===food menu part start === */
+    .shop_Fmenu {
+        padding-top: 20px !important;
+    }
+
+    .food_menu {
+        padding-bottom: 0 !important;
+    }
+
+    .food_menu {
+        padding-top: 0 !important;
+    }
+
+    #food_menu {
+        padding: 90px 0;
+    }
+
+    .arrow {
+        height: 35px;
+        width: 35px;
+    }
+
+    .prevarrow {
+        top: -70px;
+        right: 10%;
+    }
+
+    #food_menu .food_menu .main {
+        margin-bottom: 50px;
+    }
+
+    /* ===food menu part end === */
+
+    /* ===team part start === */
+    #team {
+        padding-bottom: 60px;
+    }
+
+    #team .button {
+        margin-bottom: 52px;
+    }
+
+    #team .bottom .item {
+        margin: 15px 0;
+    }
+
+    /* ===team part end === */
+
+    /* ===download part start === */
+    #download .left {
+        padding: 40px 0 40px 10px;
+    }
+
+    #download .right {
+        height: 375px;
+    }
+
+    #download .right .img {
+        width: 480px;
+    }
+
+    #download .left .download_btn a img {
+        width: 28px;
+        height: 48px;
+    }
+
+    #download .left .download_btn a h6 {
+        font-size: 15px;
+    }
+
+    /* ===download part end === */
+
+    /* ===footer part start === */
+    #footer .img {
+        text-align: center;
+    }
+
+    #footer .social_icon {
+        text-align: center;
+    }
+
+    #footer p {
+        text-align: center;
+        margin-top: 13px;
+    }
+
+    /* ===footer part end === */
+
+    /* about itile start  */
+    #about_title {
+        padding: 129px 0 59px 0;
+    }
+
+    #about_title .heading {
+        font-size: 45px;
+        text-align: center;
+    }
+
+    .about_heading {
+        margin-bottom: 30px;
+    }
+
+    .about_pera {
+        text-align: center;
+    }
+
+    #features .right .img img {
+        width: 163px;
+        height: 32px;
+    }
+
+    #features .right .img {
+        text-align: center;
+    }
+
+    #features .bottom {
+        margin-top: 110px;
+    }
+
+    /* about itile end */
+
+    /* ===promo video part start === */
+    #promo_video {
+        padding: 15px 0 60px 0;
+    }
+
+    #promo_video .right .img img {
+        margin-top: 50px;
+    }
+
+    /* ===promo video part end === */
+
+    /* ===rivew part start===  */
+    #rivew {
+        padding-bottom: 50px;
+    }
+
+    /* ===rivew part end===  */
+
+    /* ===delivery part start===  */
+    #delivery {
+        padding: 64px 0;
+    }
+
+    #delivery .right img {
+        margin-top: 50px;
+    }
+
+    /* ===delivery part end===  */
+
+    /* ===discount part start === */
+
+
+    #discount {
+        padding-bottom: 40px;
+    }
+
+    #discount .button {
+        margin-bottom: 30px;
+    }
+
+    /* ===discount part end === */
+
+    /* ===contact part start === */
+    #contact_details .left {
+        padding: 116px 10px 70px 20px;
+    }
+
+    #contact_details .right .envelope1 {
+        width: 194px;
+        bottom: -5%;
+        left: -2%;
+    }
+
+    #contact_details .right .envelope2 {
+        width: 91px;
+        right: 21px;
+    }
+
+    /* ===contact part end === */
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* ===navbar part start === */
+    #main_menu .toggler_icon i {
+        font-size: 22px;
+        color: black;
+    }
+
+    #main_menu .navbar-toggler {
+        border: 0 !important;
+    }
+
+    #main_menu .navbar-toggler:focus {
+        box-shadow: none !important;
+    }
+
+    #main_menu ul li a {
+        margin: 14px 0;
+    }
+
+    /* ===navbar part end === */
+
+    /* ===banner part start === */
+    .banner_heading {
+        font-size: 37px;
+    }
+
+    #banner {
+        padding: 160px 0 80px 0;
+    }
+
+    .button a {
+        font-size: 14px;
+        padding: 7px 9px;
+    }
+
+    .button {
+        gap: 21px;
+        justify-content: center;
+    }
+
+    #banner .right {
+        height: 360px;
+    }
+
+    .right .circle_1 {
+        height: 80px;
+        width: 80px;
+    }
+
+    /* ===banner part end === */
+
+    /* ===features part start === */
+    #features {
+        padding-bottom: 50px;
+    }
+
+    #features .shape {
+        padding: 10px;
+        right: 0px;
+    }
+
+    #features .shape .content {
+        padding: 7px;
+    }
+
+    #features .shape h2 {
+        font-size: 45px;
+        margin-bottom: 5px;
+    }
+
+    #features .sub_heading {
+        font-size: 18px;
+        margin-bottom: 5px !important;
+    }
+
+    #features .heading {
+        font-size: 36px;
+        margin-top: 70px;
+        text-align: center;
+    }
+
+    /* ===features part end === */
+
+    /* ===shoping part start === */
+    #shopping {
+        padding-bottom: 40px;
+    }
+
+    .heading {
+        font-size: 36px;
+    }
+
+    /* ===shoping part end === */
+
+    /* ===food menu part start === */
+    .food_menu {
+        padding-bottom: 30px !important;
+    }
+
+    .food_menu {
+        padding-top: 0 !important;
+    }
+
+    #food_menu {
+        padding: 90px 0;
+    }
+
+    .arrow {
+        height: 28px;
+        width: 28px;
+    }
+
+    .prevarrow {
+        top: -70px;
+        right: 10%;
+    }
+
+    #food_menu .food_menu .main {
+        margin-bottom: 50px;
+    }
+
+    /* ===food menu part end === */
+
+    /* ===team part start === */
+    #team {
+        padding-bottom: 60px;
+    }
+
+    #team .button {
+        margin-bottom: 52px;
+    }
+
+    #team .bottom .item {
+        margin: 15px 0;
+    }
+
+    /* ===team part end === */
+
+    /* ===download part start === */
+    #download .left {
+        padding: 40px 0 40px 10px;
+    }
+
+    #download .right {
+        height: 375px;
+    }
+
+    #download .right .img {
+        width: 480px;
+    }
+
+    #download .left .download_btn a img {
+        width: 28px;
+        height: 48px;
+    }
+
+    #download .left .download_btn a h6 {
+        font-size: 15px;
+    }
+
+    #download .left .download_btn {
+        justify-content: center;
+    }
+
+    /* ===download part end === */
+
+    /* ===footer part start === */
+    #footer .img {
+        text-align: center;
+    }
+
+    #footer .social_icon {
+        text-align: center;
+    }
+
+    #footer p {
+        text-align: center;
+        margin-top: 13px;
+    }
+
+    /* ===footer part end === */
+
+    /* about itile start  */
+    #about_title {
+        padding: 129px 0 59px 0;
+    }
+
+    #about_title .heading {
+        font-size: 42px;
+        text-align: center;
+    }
+
+    .about_heading {
+        margin-bottom: 30px;
+    }
+
+    .about_pera {
+        text-align: center;
+    }
+
+    #features .right .img img {
+        width: 200px;
+        height: 50px;
+    }
+
+    #features .right .img {
+        text-align: center;
+    }
+
+    #features .bottom {
+        margin-top: 72px;
+    }
+
+    /* about itile end */
+
+    /* ===promo video part start === */
+    #promo_video {
+        padding: 60px 0 60px 0;
+    }
+
+    #promo_video .right .img img {
+        margin-top: 50px;
+    }
+
+    /* ===promo video part end === */
+
+    /* ===rivew part start===  */
+    #rivew {
+        padding-bottom: 50px;
+    }
+
+    /* ===rivew part end===  */
+
+    /* ===delivery part start===  */
+    #delivery {
+        padding: 64px 0;
+    }
+
+    #delivery .right img {
+        margin-top: 50px;
+    }
+
+    /* ===delivery part end===  */
+
+    /* ===discount part start === */
+    #discount .main {
+        text-align: center;
+    }
+
+    #discount {
+        padding-bottom: 40px;
+    }
+
+    #discount .button {
+        margin-bottom: 30px;
+    }
+
+    /* ===discount part end === */
+
+    /* ===contact part start === */
+    #contact_details .left {
+        padding: 116px 10px 70px 20px;
+    }
+
+    #contact_details .right .envelope1 {
+        width: 194px;
+        bottom: -5%;
+        left: -2%;
+    }
+
+    #contact_details .right .envelope2 {
+        width: 91px;
+        right: 21px;
+    }
+
+    /* ===contact part end === */
+}
+
+@media (max-width: 575.98px) {
+
+    /* ===navbar part start === */
+    .title_button{
+        justify-content: center !important;
+    }
+    #main_menu .toggler_icon i {
+        font-size: 22px;
+        color: black;
+    }
+
+    #main_menu .navbar-toggler {
+        border: 0 !important;
+    }
+
+    #main_menu .navbar-toggler:focus {
+        box-shadow: none !important;
+    }
+
+    #main_menu ul li a {
+        margin: 14px 0;
+    }
+
+    /* ===navbar part end === */
+
+    /* ===banner part start === */
+    .banner_heading {
+        font-size: 37px;
+    }
+
+    #banner {
+        padding: 160px 0 80px 0;
+    }
+
+    .button a {
+        font-size: 14px;
+        padding: 5px 10px;
+    }
+
+    .button {
+        gap: 21px;
+        justify-content: center;
+    }
+
+    #banner .right {
+        height: 360px;
+    }
+
+    .right .circle_1 {
+        height: 80px;
+        width: 80px;
+    }
+
+    /* ===banner part end === */
+
+    /* ===features part start === */
+    #features {
+        padding-bottom: 50px;
+    }
+
+    #features .shape {
+        padding: 10px;
+        right: 0px;
+    }
+
+    #features .shape .content {
+        padding: 7px;
+    }
+
+    #features .shape h2 {
+        font-size: 45px;
+        margin-bottom: 5px;
+    }
+
+    #features .sub_heading {
+        font-size: 18px;
+        margin-bottom: 5px !important;
+    }
+
+    #features .heading {
+        font-size: 36px;
+        margin-top: 70px;
+        text-align: center;
+    }
+
+    /* ===features part end === */
+
+    /* ===shoping part start === */
+
+    #shopping {
+        padding-bottom: 0px;
+    }
+
+    .heading {
+        font-size: 36px;
+    }
+
+    /* ===shoping part end === */
+
+    /* ===food menu part start === */
+    .food_menu {
+        padding-top: 0 !important;
+    }
+
+    #food_menu {
+        padding: 60px 0;
+    }
+
+    .arrow {
+        height: 28px;
+        width: 28px;
+    }
+
+    .prevarrow {
+        top: -70px;
+        right: 10%;
+    }
+
+    #food_menu .food_menu .main {
+        margin-bottom: 50px;
+    }
+
+    /* ===food menu part end === */
+
+    /* ===team part start === */
+    #team {
+        padding-bottom: 60px;
+    }
+
+    #team .button {
+        margin-bottom: 52px;
+    }
+
+    /* ===team part end === */
+
+    /* ===download part start === */
+    #download .left {
+        padding: 40px 0 40px 10px;
+    }
+
+    #download .right {
+        height: 375px;
+    }
+
+    #download .right .img {
+        width: 282px;
+    }
+
+    #download .left .download_btn a img {
+        width: 28px;
+        height: 48px;
+    }
+
+    #download .left .download_btn a h6 {
+        font-size: 14px;
+    }
+
+    #download .left .download_btn {
+        justify-content: center;
+    }
+
+    /* ===download part end === */
+
+    /* ===footer part start === */
+    #footer .img {
+        text-align: center;
+    }
+
+    #footer .social_icon {
+        text-align: center;
+    }
+
+    #footer p {
+        text-align: center;
+        margin-top: 13px;
+    }
+
+    /* ===footer part end === */
+
+    /* about itile start  */
+    #about_title {
+        padding: 129px 0 59px 0;
+    }
+
+    #about_title .heading {
+        font-size: 42px;
+        text-align: center;
+    }
+
+    .about_heading {
+        margin-bottom: 30px;
+    }
+
+    .about_pera {
+        text-align: center;
+    }
+
+    #features .right .img img {
+        width: 200px;
+        height: 50px;
+    }
+
+    #features .right .img {
+        text-align: center;
+    }
+
+    #features .bottom {
+        margin-top: 72px;
+    }
+
+    /* about itile end */
+
+    /* ===promo video part start === */
+    #promo_video {
+        padding: 60px 0 60px 0;
+    }
+
+    #promo_video .right .img img {
+        margin-top: 50px;
+    }
+
+    /* ===promo video part end === */
+
+    /* ===rivew part start===  */
+    #rivew {
+        padding-bottom: 50px;
+    }
+
+    /* ===rivew part end===  */
+
+    /* ===delivery part start===  */
+    #delivery {
+        padding: 64px 0;
+    }
+
+    #delivery .right img {
+        margin-top: 50px;
+    }
+
+    /* ===delivery part end===  */
+
+    /* ===discount part start === */
+
+
+    #discount {
+        padding-bottom: 40px;
+    }
+
+    #discount .button {
+        margin-bottom: 30px;
+    }
+
+    /* ===discount part end === */
+
+    /* ===contact part start === */
+    #contact_details .left {
+        padding: 116px 10px 70px 20px;
+    }
+
+    #contact_details .right .envelope1 {
+        width: 194px;
+        bottom: -5%;
+        left: -2%;
+    }
+
+    #contact_details .right .envelope2 {
+        width: 91px;
+        right: 21px;
+    }
+
+    /* ===contact part end === */
+}
